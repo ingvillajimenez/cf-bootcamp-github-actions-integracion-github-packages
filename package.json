@@ -1,0 +1,28 @@
+{
+  "name": "cf-bootcamp-github-actions-integracion-github-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ingvillajimenez/cf-bootcamp-github-actions-integracion-github-packages.git"
+  },
+  "keywords": [],
+  "author": "Juan Villa",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/ingvillajimenez/cf-bootcamp-github-actions-integracion-github-packages/issues"
+  },
+  "homepage": "https://github.com/ingvillajimenez/cf-bootcamp-github-actions-integracion-github-packages#readme",
+  "description": "Funciones estadisticas y generacion de graficas con Node.js",
+  "dependencies": {
+    "canvas": "^3.1.2",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "cf-bootcamp-github-actions-integracion-github-packages",
+  "name": "@ingvillajimenez/cf-bootcamp-github-actions-integracion-github-packages",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
